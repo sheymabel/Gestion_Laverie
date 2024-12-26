@@ -1,0 +1,11 @@
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.deps.json
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.dll
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\bin\Debug\net8.0\GestionLaverie.Domaine.pdb
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.AssemblyInfo.cs
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.dll
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\refint\GestionLaverie.Domaine.dll
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\GestionLaverie.Domaine.pdb
+C:\Users\MSI\source\repos\LiverieAPI\GestionLaverie.Domaine\obj\Debug\net8.0\ref\GestionLaverie.Domaine.dll
