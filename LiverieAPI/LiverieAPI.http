@@ -1,0 +1,6 @@
+@LiverieAPI_HostAddress = http://localhost:5195
+
+GET {{LiverieAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
